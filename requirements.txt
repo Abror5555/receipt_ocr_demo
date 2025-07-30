@@ -1,0 +1,6 @@
+opencv-python
+numpy
+paddleocr
+pytesseract
+paddlepaddle
+setuptools
